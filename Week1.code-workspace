@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../Week1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"bevel.java": "/Users/nakamurasakuraryou/.vscode/extensions/bevel-software.bevel-1.3.0/backend/amazon-corretto-17.jdk/Contents/Home/bin/java",
+		"liveServer.settings.multiRootWorkspaceName": "Web_Programming"
+	}
+}
